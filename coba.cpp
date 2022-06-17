@@ -49,7 +49,7 @@ int main() {
     objek4->show(); // arrow operator. untuk mapping function, attribut sebuah pointer
     cout << objek4->nama << endl;
 
-    // membuat deklarasi objek tapi
+    // membuat deklarasi objek 
     denganConstructor* objek5;
     objek5 = new denganConstructor("objek 5");
     objek5->show();
